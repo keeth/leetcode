@@ -1,0 +1,83 @@
+Staff Software Engineer, ML Services
+
+Remote in Canada
+
+Hi, we are ecobee. 
+
+ecobee introduced the world’s first smart Wi-Fi thermostat to help millions of consumers save money, conserve energy, and bring home automation into their lives. That was just the beginning. We continue our pursuit to create technology that brings peace of mind into the home and allows people to focus on the moments that matter most. We take pride in making a meaningful difference to the environment, all while being part of the exciting, connected home revolution. 
+
+In 2021, ecobee became a subsidiary of Generac Power Systems. Generac introduced the first affordable backup generator and later created the category of automatic home standby generator. The company is committed to sustainable, cleaner energy products poised to revolutionize the 21st century electrical grid. Together, we take pride in making a meaningful difference to the environment.
+
+Why we love to do what we do: 
+
+We’re helping build the world of tomorrow with solutions that improve everyday life while making a positive impact on the planet. Our products and services work in harmony to provide comfort, efficiency, and peace of mind for millions of homes and businesses. While we’re proud of what we’ve done so far, there’s still a lot we can do—and you can be part of it.  
+
+Join our extraordinary team. 
+
+We're a rapidly growing global tech company headquartered in Canada, in the heart of downtown Toronto, with a satellite office in Leeds, UK (and remote ecopeeps in the US). We get to work with some of North America and UK's leading professionals. Our colleagues are proud to bring their authentic selves to work, confident that what we do is grounded in a greater purpose. We’re always looking for curious, talented, and passionate people to join our team.
+
+This role is open to being 100% remote within Canada while our home office is located in Toronto, Ontario. You may be required to travel to Toronto once per quarter for team and/or company events.  
+
+Who You’ll Be Joining:
+
+You will be part of the dynamic data engineering and machine learning services group at ecobee focused on leveraging data to enhance the smart home experience for customers. This team is responsible for building and maintaining the data infrastructure and machine learning capabilities that power intelligent features across ecobee’s product ecosystem, such as integrated AI services, energy optimization, home automation, personalized climate control, predictive maintenance.
+
+How You’ll Make an Impact:   
+
+Design Scalable Product Architecture: Develop robust, scalable architectures that support machine learning capabilities within the Energy and Smart Security business at ecobee, integrating multiple data sources (thermostat telemetry, geofence signals, motion events, etc.) while ensuring designs fit seamlessly with ecobee’s broader architecture and meet long-term scalability needs.
+Complex Problem Solving: Tackle high-complexity problems that require detailed cross-domain knowledge, addressing significant ambiguity, and working with incomplete data. Collaborate across teams to solve challenges where solutions impact multiple domains.
+Architectural Impact: Contribute to ecobee’s system architecture with designs that have been battle-tested, resulting in significant, long-lasting impact within a specific domain. Solutions are expected to integrate elegantly with ecobee’s broader enterprise architecture and align with company-wide standards.
+Enterprise-Wide Architecture: Start to think beyond individual components or domains, considering ecobee’s broader architectural strategy. Collaborate with principal engineers and directors to ensure designs complement the company’s vision.
+Ownership & Delivery: Take end-to-end ownership of full components within your domain of expertise, ensuring that their design, implementation, testing, deployment, and operations meet high standards. These components will likely interact with systems in other domains, requiring careful consideration of cross-team dependencies.
+Code Quality & Debugging: Consistently deliver high-quality, maintainable code. Lead by example in debugging tough, stack-wide issues, finding root causes, and implementing effective solutions.
+Forward-Thinking & Strategic Initiatives: Anticipate future challenges and propose technical solutions that prevent future roadblocks. Participate in evaluating and recommending new technologies and frameworks for the product group.
+Mentorship & Collaboration: Actively mentor other engineers, guiding them toward concrete goals and fostering a culture of feedback and knowledge sharing. Lead or participate in design reviews, post-mortems, and code reviews.
+Innovation & Impact: Drive innovative improvements to processes and best practices across the engineering organization. Contribute to novel solutions that influence ecobee’s engineering direction and deliver measurable, high-impact results across multiple teams and domains.
+Cross-team Collaboration: Facilitate and lead discussions across squads, ensuring inclusive decision-making processes and cross-functional buy-in on technical solutions and business decisions. Serve as a trusted advisor and leader within ecobee’s engineering community.
+What You’ll Bring to the Table:    
+
+10+ years of experience in software engineering, with a proven track record of owning and delivering complex, cross-domain projects at scale.
+Expertise in system design, architecture, and the development of large-scale, high-availability and security systems.
+Very high proficiency in multiple programming languages and frameworks including Python, Java, Go, Node.js, etc.
+Expertise in messaging queue processing (e.g., RabbitMQ, Kafka) and real-time data handling.
+Experience with device telemetry, understanding its limits, and how to design systems that effectively use telemetry data to enhance functionality.
+Experience working with with deep learning architectures and frameworks (e.g. Pytorch, Tensorflow) and leveraging such frameworks to build scalable features
+Familiarity with MLOps stacks like Kubeflow, MLFlow, Sagemaker and proven experience in deploying machine learning features at scale
+Experience working with cloud platforms such as AWS, Azure, or Google Cloud.
+Experience optimizing database performance and system tuning, ensuring that database and application interactions are fast, reliable, and scalable.
+Demonstrated ability to debug tough, stack-wide issues across multiple environments, finding root causes and implementing long-term fixes.
+Demonstrated ability to mentor, lead technical discussions, and contribute to a collaborative engineering culture.
+Experience with DevOps principles, CI/CD pipelines, and ensuring operational excellence.
+Familiarity with IoT technologies and connected devices is an asset.
+Strong debugging skills, with experience solving complex, stack-wide issues that involve mobile devices and cloud-based services.
+Just so you know: The hired candidate will be required to complete a background check. 
+
+What happens after you apply:   
+
+Application review. It will happen. By an actual person in Talent Acquisition. We get upwards of 100+ applications for some roles, it can take a few days, but every applicant can expect a note regarding their application status.  
+
+Interview Process:  
+
+A 30-minute phone call with a member of Talent Acquisition  
+45 minutes interview with the candidate with Director of Engineering. This is to discuss experience designing and building scalable data architectures, pipelines, and processing systems.
+90 minutes with staff and senior engineers for technical interview on System Design & Architecture and coding challenge
+The final interview will be a 90 minutes interview divided into two parts where you will meet with the Director and VP of Engineering
+With ecobee, you’ll have the opportunity to: 
+
+Be part of something big: Get to work in a fresh, dynamic, and ever-growing industry.  
+Make a difference for the environment: Make a sustainable impact while on your daily job, and after it through programs like ecobee acts. 
+Expand your career: Learn with our in-house learning enablement team, and enjoy our generous professional learning budget. 
+Put people first: Benefit from competitive salaries, health benefits, and a progressive Parental Top-Up Program (75% top-up or five bonus days off). 
+Play a part on an exceptional culture: Enjoy a fun and casual workplace with an open concept office, located at Queens Quay W & York St. ecobee Leeds is based at our riverside office on the Calls. 
+Celebrate diversity: Be part of a truly welcoming workplace. We offer a mentorship program and bias training.  
+Are you interested? Let's make it work. 
+
+Our people are empowered to take ownership of their schedules with workflows that allow for flexible hours. Based on your job, you have an option of a office-based, fully remote, or hybrid work environment. New team members working remotely, will have all necessary equipment provided and shipped to them, and we conduct our interviews and onboarding sessions primarily through video.
+
+We’re committed to inclusion and accommodation. 
+
+ecobee believes that openness and diversity make us better. We welcome applicants from all backgrounds to apply regardless of race, gender, age, religion, identity, or any other aspect which makes them unique. Accommodations can be made upon request for candidates taking part in all aspects of the selection process. Our recruitment team is happy to answer any questions candidates may have about virtual interviewing, onboarding, and future work locations.
+
+We’re up to incredible things. Come and be part of them. 
+
+Discover our products and services and learn more about who we are.  
